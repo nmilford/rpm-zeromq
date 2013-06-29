@@ -2,7 +2,7 @@
 # sudo yum -y install glib2-devel libuuid-devel e2fsprogs-devel
 # wget https://raw.github.com/nmilford/rpm-zeromq/master/zeromq.spec -O ~/rpmbuild/SPECS/zeromq.spec
 # wget http://download.zeromq.org/zeromq-2.1.7.zip -O ~/rpmbuild/SOURCES/zeromq-2.1.7.zip
-#rpmbuild -bb ~/rpmbuild/SPECS/storm.spec
+# rpmbuild -bb ~/rpmbuild/SPECS/zeromq.spec
 
 Name:           zeromq
 Version:        2.1.7

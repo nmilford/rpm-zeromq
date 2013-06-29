@@ -14,4 +14,4 @@ To Build:
 
 `wget http://download.zeromq.org/zeromq-2.1.7.zip -O ~/rpmbuild/SOURCES/zeromq-2.1.7.zip`
 
-`rpmbuild -bb ~/rpmbuild/SPECS/storm.spec`
+`rpmbuild -bb ~/rpmbuild/SPECS/zeromq.spec`
